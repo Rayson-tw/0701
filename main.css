@@ -1,5 +1,4 @@
 .square{
-    background-color:lightblue;
     width:0px;
     height:0px;
     border-top:100px solid green;
@@ -7,33 +6,14 @@
     border-right:100px solid red;
     border-left:100px solid yellow
     }
-.r-ball{
-    width:50px;
-    height:50px;
-    border-radius:50%;
-    font-size:23px;
-    font-family:arial;
-    font-weight:900;
-    color:black;
-    line-height:50px;
-    text-align:center;
-    background-color:red;
+
+.mountain{
+    border:0px;
+    width:0px;
+    height:0px;
+    border-top:50px solid lightblue;
+    border-bottom: 0px solid;
+    border-right:50px solid navy;
+    border-left:50px solid blue;
+    display: inline-block;
     }
-table{
-    width:430px;
-    background-color:#FFFFCC;
-    
-    }
-.r1-3{
-    font-family:arial;
-    text-align:center;
-    color:red;
-    }
-a.a-1:link{
-    text-decoration:none;
-    color:navy;
-}
-a.a-1:hover{
-    text-decoration:underline;
-    color:red;
-}
