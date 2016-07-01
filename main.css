@@ -1,0 +1,42 @@
+.y-ball{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family:arial;
+    font-weight:900;
+    color:black;
+    line-height:50px;
+    text-align:center;
+    background-color:rgb(255,191,17);
+    }
+.r-ball{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family:arial;
+    font-weight:900;
+    color:black;
+    line-height:50px;
+    text-align:center;
+    background-color:red;
+    }
+table{
+    width:430px;
+    background-color:#FFFFCC;
+    
+    }
+.r1-3{
+    font-family:arial;
+    text-align:center;
+    color:red;
+    }
+a.a-1:link{
+    text-decoration:none;
+    color:navy;
+}
+a.a-1:hover{
+    text-decoration:underline;
+    color:red;
+}
