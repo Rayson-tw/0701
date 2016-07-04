@@ -17,19 +17,21 @@
     border-left:50px solid blue;
     display: inline-block;
     }
-.mario{
-    border:1px dashed red;
-    background-color:lightgreen;
-    width:200px;
-    height:300px;
+.pipe-top{
+    background-color: lightgreen;
+    width: 200px;
+    height: 50px;
+    border: 6px solid green;
+    border-top-style: double;
+    border-bottom-style: dotted;   
 }
 
-    p{width: 200px;}
-    p.dotted {border-style: dotted}
-    p.dashed {border-style: dashed}
-    p.solid {border-style: solid}
-    p.double {border-style: double}
-    p.groove {border-style: groove}
-    p.ridge {border-style: ridge}
-    p.inset {border-style: inset}
-    p.outset {border-style: outset}
+.pipe-bottom{
+    background-color:lightgreen;
+    width: 150px;
+    height: 200px;
+    border: 6px solid green;
+    border-top-style: none;
+    margin: 0px 25px;
+}
+
